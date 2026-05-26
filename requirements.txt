@@ -1,0 +1,9 @@
+torch==2.0.1
+transformers==4.36.0
+sentence-transformers==2.7.0
+loguru
+numpy<2.0
+openai==1.30.0
+tenacity
+python-dotenv
+networkx==3.2.1
